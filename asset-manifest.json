@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mkatay/first.git/static/css/main.557f6fa0.css",
+    "main.js": "/mkatay/first.git/static/js/main.fbdb2b19.js",
+    "index.html": "/mkatay/first.git/index.html",
+    "main.557f6fa0.css.map": "/mkatay/first.git/static/css/main.557f6fa0.css.map",
+    "main.fbdb2b19.js.map": "/mkatay/first.git/static/js/main.fbdb2b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.557f6fa0.css",
+    "static/js/main.fbdb2b19.js"
+  ]
+}
