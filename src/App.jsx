@@ -1,5 +1,5 @@
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import {Toggle} from './components/Toggle';
 import {Todo} from './components/Todo';
 import {Counter} from './components/Counter';
